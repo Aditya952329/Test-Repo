@@ -1,0 +1,2 @@
+total_orders,fulfilled_orders,cancelled_orders,cancellation_rate_pct,sla_breach_rate_pct,avg_actual_delivery_mins,avg_order_value_fulfilled,total_revenue,total_contribution_margin,margin_pct_on_revenue
+12000,11091,909,7.58,46.97,20.11,416.46,4619003.51,3601236.86,77.97
