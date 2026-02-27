@@ -1,4 +1,4 @@
-# Blinkit Data Analyst Portfolio Project (1.5 YOE Friendly)
+# Blinkit Data Analyst Portfolio Project
 
 A recruiter-ready end-to-end analytics project designed for a **Data Analyst role at Blinkit**.  
 It simulates a quick-commerce business scenario and demonstrates practical skills expected from analysts with ~1–2 years of experience.
@@ -62,7 +62,7 @@ Generated outputs:
 - Processed KPI tables in `data/processed/`
 - Resume bullets in `reports/resume_bullets.md`
 
-## Suggested Interview Pitch (30 sec)
+## Interview Pitch
 
 > "I built an end-to-end Blinkit-style dark store analytics case study using SQL and Python. I analyzed SLA breaches, cancellations, and margin leakage across stores, categories, and peak hours. My recommendations targeted high-impact slots and discount inefficiencies, showing how ops and pricing changes can improve both customer experience and contribution margin."
 
